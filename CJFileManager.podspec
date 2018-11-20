@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CJFileManager"
-  s.version      = "1"
+  s.version      = "2"
   s.summary      = "CJFileManager."
   s.description  = <<-DESC
                     this is CJFileManager
